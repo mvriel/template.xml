@@ -4,5 +4,8 @@
     "description": "Generates an XML representation of the project's structure",
     "keywords": ["documentation", "template", "phpdoc"],
     "homepage": "http://www.phpdoc.org",
-    "license": "MIT"
+    "license": "MIT",
+    "require": {
+        "phpdocumentor/unified-asset-installer": "~1.1"
+    }
 }
